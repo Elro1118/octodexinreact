@@ -1,20 +1,20 @@
 import React, { Component } from 'react'
-import photoAuthor from './images/photo.png'
+// import photoAuthor from './images/photo.png'
 class Description extends Component {
   render() {
     return (
       <div>
         <figcaption className="myFigurationCaption">
-          <p className="p3">#146</p>
+          <p className="p3">{this.props.numberImage}</p>
 
           <section className="mySection1">
             <ul>
               <li className="p1">the</li>
-              <li className="p2">Filmtocats</li>
+              <li className="p2">{this.props.nameImage}</li>
               <li className="p1">by</li>
               <li>
-                <a href="https://github.com/heyhayhay">
-                  <img className="myImage2" src={photoAuthor} />
+                <a href={this.props.authorLink}>
+                  <img className="myImage2" src={this.props.photoAuthor} />
                 </a>
               </li>
             </ul>
