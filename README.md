@@ -2,4 +2,4 @@
 
 <img src="./src/components/images/OctoDexInReact.gif"></img>
 
-Estoy comprobado de este proyecto porque aprendí a crear una aplicación con React y API al mismo tiempo reforze mi conocimientos en Html, CSS using VS Code.
+I am proud of this project because I learned to create an application with React and API at the same time to reinforce my knowledge in Html, CSS using VS Code as a tool.
