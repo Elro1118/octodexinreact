@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import tri from './images/tri.png'
-// import catImage from './images/filmtocats.png'
 import Description from './Description'
 
 class MyImage extends Component {

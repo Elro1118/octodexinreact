@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-// import photoAuthor from './images/photo.png'
+
 class Description extends Component {
   render() {
     return (
