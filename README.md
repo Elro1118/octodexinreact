@@ -1,10 +1,10 @@
 # Octodex in React
 
 My goal was to create a web page that displayed the GitHub mascot which calls OctoCat from GitHub using:
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">Html</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
-<a href="https://reactjs.org/">React</a>
-<a href="https://en.wikipedia.org/wiki/Application_programming_interface">API</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">Html, </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS, </a>
+<a href="https://reactjs.org/">React, </a>
+<a href="https://en.wikipedia.org/wiki/Application_programming_interface">API and </a>
 <a href="https://code.visualstudio.com/">VS Code</a>
 
 <img src="./src/components/images/OctoDexInReact.gif"></img>
