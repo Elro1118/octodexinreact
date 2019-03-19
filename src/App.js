@@ -36,18 +36,21 @@ class App extends Component {
     return (
       <>
         <MyMenu />
-        {this.state.myOctopuses.map(octopus => {
-          return (
-            <MyImage
-              key={octopus.number}
-              urlMyImage={octopus.image}
-              nameImage={octopus.name}
-              nroImage={octopus.number}
-              authorLink={octopus.authors[0].link}
-              imageAuthor={octopus.authors[0].image}
-            />
-          )
-        })}
+        <div className="pictures">
+          {this.state.myOctopuses.map(octopus => {
+            return (
+              <MyImage
+                key={octopus.number}
+                urlMyImage={octopus.image}
+                nameImage={octopus.name}
+                nroImage={octopus.number}
+                authorLink={octopus.authors[0].link}
+                imageAuthor={octopus.authors[0].image}
+              />
+            )
+          })}
+        </div>
+        <footer>Made SDG with ❤ </footer>
       </>
     )
   }

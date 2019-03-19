@@ -36,6 +36,12 @@ li {
   display: inline;
 }
 
+.pictures {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .myMainMenu {
   display: flex;
   justify-content: space-between;
@@ -98,6 +104,11 @@ li {
 .p3 {
   font-weight: bold;
   color: #cacaca;
+}
+footer {
+  text-align: center;
+  margin: 5rem;
+  font-size: 1rem;
 }
 
 @media (max-width: 600px) {
