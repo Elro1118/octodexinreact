@@ -1,4 +1,4 @@
-# Octodexinreact
+# Octodex in React
 
 My goal was to create a web page that displayed the GitHub mascot which calls OctoCat from GitHub using:
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">Html</a>
