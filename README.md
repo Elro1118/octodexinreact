@@ -9,6 +9,6 @@ My goal was to create a web page that displayed the GitHub mascot which calls Oc
 
 <img src="./src/components/images/OctoDexInReact.gif"></img>
 
-I am proud of this project because I learned to create an application with React and API at the same time to reinforce my knowledge in Html, CSS, Javascript, and web Responsive  using VS Code as a tool.
+I am proud of this project because I learned to create an application with React and API at the same time to reinforce my knowledge in Html, CSS, Javascript, and Responsive web  using VS Code as a tool.
 
 <img src="./src/components/images/CodeOctoDexInReact.gif"></img>
